@@ -1,0 +1,17 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and backup files
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+*.orig
+
+# Logs and crash dumps
+*.log
+core
+core.*
